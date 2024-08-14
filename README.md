@@ -17,3 +17,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a degree in Biology, but made a career transition in tech in 2021.
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liviazeviani&theme=tokyonight)
+
